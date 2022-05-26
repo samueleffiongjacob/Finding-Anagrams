@@ -12,9 +12,9 @@ Read the Guidelines first here: Guidelines
 
 Resources:
 <ul>
- <li><p a href="https://www.pythonforbeginners.com/basics/string-manipulation-in-python">String Manipulation in Python - PythonForBeginners.com</p></li>
- <li><p a href="https://towardsdatascience.com/python-basics-6-lists-and-list-manipulation-a56be62b1f95">Python Lists and List Manipulation | by Michael Galarnyk | Towards Data Science</p></li>
- <li><p a href="https://www.grammar-monster.com/glossary/anagrams.htm">Anagrams</p></li>
+ <li><p<a href="https://www.pythonforbeginners.com/basics/string-manipulation-in-python">>String Manipulation in Python - PythonForBeginners.com</p></li>
+ <li><p <a href="https://towardsdatascience.com/python-basics-6-lists-and-list-manipulation-a56be62b1f95">>Python Lists and List Manipulation | by Michael Galarnyk | Towards Data Science</p></li>
+ <li><p <a href="https://www.grammar-monster.com/glossary/anagrams.htm">>Anagrams</p></li>
 </ul>
 
 
